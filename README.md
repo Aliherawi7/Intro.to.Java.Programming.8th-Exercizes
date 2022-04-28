@@ -7,15 +7,6 @@
  
 ![Java se Exercizes](assets/Exercizes.png)
 
-# features
-* Full Responsive
-* working with api
-* get data from The Movie Database(tmdb)
-* react-youtube
-* movie-trailer
-* react-transition-group
-* animations
-
 # getting started
 
 **1. clone from Github**
