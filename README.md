@@ -7,6 +7,7 @@
  
 ![Java se Exercizes](assets/Exercizes.png)
 
+gitstart
 # getting started
 
 **1. clone from Github**
